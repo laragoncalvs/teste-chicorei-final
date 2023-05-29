@@ -1,16 +1,11 @@
 # teste-chicorei
 
-This template should help get you started developing with Vue 3 in Vite.
+# Questões
+O desenvolvimento de cada item do teste está no mesmo projeto, sendo cada um os seguintes links:
 
-## Recommended IDE Setup
+![image](https://github.com/laragoncalvs/teste-chicorei/assets/91262759/780cfbcf-1255-4838-824c-a528420c5a87)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+# Instruções para build:
 
 ```sh
 npm install
